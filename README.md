@@ -1,2 +1,2 @@
-# RAG
-# RAG
+# RAG PRACTICE
+
